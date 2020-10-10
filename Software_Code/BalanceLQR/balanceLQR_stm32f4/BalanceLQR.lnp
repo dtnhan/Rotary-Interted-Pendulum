@@ -1,0 +1,26 @@
+--cpu Cortex-M4.fp
+".\balancelqr.o"
+".\balancelqr_data.o"
+".\main.o"
+".\misc.o"
+".\pulsetoangle_wrapper.o"
+".\stm32f4xx_gpio.o"
+".\stm32f4xx_it.o"
+".\stm32f4xx_pwr.o"
+".\stm32f4xx_rcc.o"
+".\stm32f4xx_syscfg.o"
+".\stm32f4xx_tim.o"
+".\system_stm32f4xx.o"
+".\waijung_hwdrvlib.o"
+".\startup_stm32f4xx.o"
+".\pulsetoangle1_wrapper.o"
+".\stm32f4xx_dma.o"
+".\stm32f4xx_usart.o"
+".\stm32f4_io_customcode.o"
+".\rt_nonfinite.o"
+".\rtgetinf.o"
+".\rtgetnan.o"
+--strict --scatter ".\BalanceLQR.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\BalanceLQR.map" -o .\BalanceLQR.axf

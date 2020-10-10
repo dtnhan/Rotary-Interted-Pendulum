@@ -1,0 +1,1525 @@
+Archive member included because of file (symbol)
+
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+                              BalanceFuzzy.o (ceil)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                              BalanceFuzzy.o (floor)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                              BalanceFuzzy.o (__aeabi_dsub)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                              pulsetoangle1_wrapper.o (__aeabi_dmul)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                              BalanceFuzzy.o (__aeabi_dcmpeq)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                              BalanceFuzzy.o (__aeabi_d2uiz)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+                              waijung_hwdrvlib.o (memcpy)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                              syscalls.o (errno)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o) (_free_r)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o) (_impure_ptr)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o) (__malloc_current_mallinfo)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o) (__malloc_lock)
+e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o) (_sbrk_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+BalanceFuzzy_M_     0x4               BalanceFuzzy.o
+rtNaNF              0x4               rt_nonfinite.o
+encoder1total       0x4               stm32f4_io_customcode.o
+errno               0x4               e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+encoder1            0x2               stm32f4_io_customcode.o
+UARTTx_packet_buffer
+                    0x34              waijung_hwdrvlib.o
+BalanceFuzzy_DW     0x10              BalanceFuzzy.o
+oldEncoder1         0x2               stm32f4_io_customcode.o
+rtInfF              0x4               rt_nonfinite.o
+rtInf               0x8               rt_nonfinite.o
+rtNaN               0x8               rt_nonfinite.o
+rtMinusInf          0x8               rt_nonfinite.o
+DigitalOutput_portVal
+                    0x2               waijung_hwdrvlib.o
+oldEncoder2         0x2               stm32f4_io_customcode.o
+BalanceFuzzy_B      0x30              BalanceFuzzy.o
+UARTSetup_Tx_State  0x1               waijung_hwdrvlib.o
+encoder2            0x2               stm32f4_io_customcode.o
+UARTSetup_DMA_Init  0x3c              waijung_hwdrvlib.o
+encoder2total       0x4               stm32f4_io_customcode.o
+rtMinusInfF         0x4               rt_nonfinite.o
+UART1_Tx_Buffer     0x200             waijung_hwdrvlib.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x0001c000         xrw
+AUX_RAM          0x2001c000         0x00004000         xrw
+CCM_RAM          0x10000000         0x00010000         rw
+BKP_RAM          0x40024000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD startup_stm32f4xx.o
+LOAD stm32f4xx_syscfg.o
+LOAD stm32f4xx_rcc.o
+LOAD stm32f4xx_pwr.o
+LOAD stm32f4xx_tim.o
+LOAD system_stm32f4xx.o
+LOAD stm32f4xx_it.o
+LOAD main.o
+LOAD pulsetoangle1_wrapper.o
+LOAD misc.o
+LOAD stm32f4xx_dma.o
+LOAD BalanceFuzzy_data.o
+LOAD rtGetNaN.o
+LOAD stm32f4_io_customcode.o
+LOAD waijung_hwdrvlib.o
+LOAD BalanceFuzzy.o
+LOAD syscalls.o
+LOAD rt_nonfinite.o
+LOAD stm32f4xx_usart.o
+LOAD pulsetoangle_wrapper.o
+LOAD rtGetInf.o
+LOAD stm32f4xx_gpio.o
+LOAD e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a
+LOAD e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a
+START GROUP
+LOAD e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a
+LOAD e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a
+LOAD e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+
+.text           0x08000000     0x7134
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 startup_stm32f4xx.o
+                0x08000000                __isr_vector
+ *(.text*)
+ .text          0x08000188       0xf8 startup_stm32f4xx.o
+                0x08000188                Reset_Handler
+                0x080001da                WWDG_IRQHandler
+                0x080001dc                PVD_IRQHandler
+                0x080001de                TAMP_STAMP_IRQHandler
+                0x080001e0                RTC_WKUP_IRQHandler
+                0x080001e2                FLASH_IRQHandler
+                0x080001e4                RCC_IRQHandler
+                0x080001e6                EXTI0_IRQHandler
+                0x080001e8                EXTI1_IRQHandler
+                0x080001ea                EXTI2_IRQHandler
+                0x080001ec                EXTI3_IRQHandler
+                0x080001ee                EXTI4_IRQHandler
+                0x080001f0                DMA1_Stream0_IRQHandler
+                0x080001f2                DMA1_Stream1_IRQHandler
+                0x080001f4                DMA1_Stream2_IRQHandler
+                0x080001f6                DMA1_Stream3_IRQHandler
+                0x080001f8                DMA1_Stream4_IRQHandler
+                0x080001fa                DMA1_Stream5_IRQHandler
+                0x080001fc                DMA1_Stream6_IRQHandler
+                0x080001fe                ADC_IRQHandler
+                0x08000200                CAN1_TX_IRQHandler
+                0x08000202                CAN1_RX0_IRQHandler
+                0x08000204                CAN1_RX1_IRQHandler
+                0x08000206                CAN1_SCE_IRQHandler
+                0x08000208                EXTI9_5_IRQHandler
+                0x0800020a                TIM1_BRK_TIM9_IRQHandler
+                0x0800020c                TIM1_UP_TIM10_IRQHandler
+                0x0800020e                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000210                TIM1_CC_IRQHandler
+                0x08000212                TIM2_IRQHandler
+                0x08000214                TIM3_IRQHandler
+                0x08000216                TIM4_IRQHandler
+                0x08000218                I2C1_EV_IRQHandler
+                0x0800021a                I2C1_ER_IRQHandler
+                0x0800021c                I2C2_EV_IRQHandler
+                0x0800021e                I2C2_ER_IRQHandler
+                0x08000220                SPI1_IRQHandler
+                0x08000222                SPI2_IRQHandler
+                0x08000224                USART1_IRQHandler
+                0x08000226                USART2_IRQHandler
+                0x08000228                USART3_IRQHandler
+                0x0800022a                EXTI15_10_IRQHandler
+                0x0800022c                RTC_Alarm_IRQHandler
+                0x0800022e                OTG_FS_WKUP_IRQHandler
+                0x08000230                TIM8_BRK_TIM12_IRQHandler
+                0x08000232                TIM8_UP_TIM13_IRQHandler
+                0x08000234                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000236                TIM8_CC_IRQHandler
+                0x08000238                DMA1_Stream7_IRQHandler
+                0x0800023a                FSMC_IRQHandler
+                0x0800023c                SDIO_IRQHandler
+                0x0800023e                TIM5_IRQHandler
+                0x08000240                SPI3_IRQHandler
+                0x08000242                UART4_IRQHandler
+                0x08000244                UART5_IRQHandler
+                0x08000246                TIM6_DAC_IRQHandler
+                0x08000248                TIM7_IRQHandler
+                0x0800024a                DMA2_Stream0_IRQHandler
+                0x0800024c                DMA2_Stream1_IRQHandler
+                0x0800024e                DMA2_Stream2_IRQHandler
+                0x08000250                DMA2_Stream3_IRQHandler
+                0x08000252                DMA2_Stream4_IRQHandler
+                0x08000254                ETH_IRQHandler
+                0x08000256                ETH_WKUP_IRQHandler
+                0x08000258                CAN2_TX_IRQHandler
+                0x0800025a                CAN2_RX0_IRQHandler
+                0x0800025c                CAN2_RX1_IRQHandler
+                0x0800025e                CAN2_SCE_IRQHandler
+                0x08000260                OTG_FS_IRQHandler
+                0x08000262                DMA2_Stream5_IRQHandler
+                0x08000264                DMA2_Stream6_IRQHandler
+                0x08000266                DMA2_Stream7_IRQHandler
+                0x08000268                USART6_IRQHandler
+                0x0800026a                I2C3_EV_IRQHandler
+                0x0800026c                I2C3_ER_IRQHandler
+                0x0800026e                OTG_HS_EP1_OUT_IRQHandler
+                0x08000270                OTG_HS_EP1_IN_IRQHandler
+                0x08000272                OTG_HS_WKUP_IRQHandler
+                0x08000274                OTG_HS_IRQHandler
+                0x08000276                DCMI_IRQHandler
+                0x08000278                CRYP_IRQHandler
+                0x0800027a                HASH_RNG_IRQHandler
+                0x0800027c                FPU_IRQHandler
+ .text          0x08000280       0x88 stm32f4xx_syscfg.o
+                0x08000280                SYSCFG_DeInit
+                0x0800029c                SYSCFG_MemoryRemapConfig
+                0x080002a8                SYSCFG_EXTILineConfig
+                0x080002e0                SYSCFG_ETH_MediaInterfaceConfig
+                0x080002ec                SYSCFG_CompensationCellCmd
+                0x080002f8                SYSCFG_GetCompensationCellStatus
+ .text          0x08000308      0x4fc stm32f4xx_rcc.o
+                0x08000308                RCC_DeInit
+                0x08000340                RCC_HSEConfig
+                0x08000350                RCC_WaitForHSEStartUp
+                0x08000390                RCC_AdjustHSICalibrationValue
+                0x080003a8                RCC_HSICmd
+                0x080003b4                RCC_LSEConfig
+                0x080003d4                RCC_LSICmd
+                0x080003e0                RCC_PLLConfig
+                0x08000404                RCC_PLLCmd
+                0x08000410                RCC_PLLI2SConfig
+                0x08000424                RCC_PLLI2SCmd
+                0x08000430                RCC_ClockSecuritySystemCmd
+                0x0800043c                RCC_MCO1Config
+                0x08000454                RCC_MCO2Config
+                0x0800046c                RCC_SYSCLKConfig
+                0x08000480                RCC_GetSYSCLKSource
+                0x08000490                RCC_HCLKConfig
+                0x080004a4                RCC_PCLK1Config
+                0x080004b8                RCC_PCLK2Config
+                0x080004d0                RCC_GetClocksFreq
+                0x08000584                RCC_RTCCLKConfig
+                0x080005bc                RCC_RTCCLKCmd
+                0x080005c8                RCC_BackupResetCmd
+                0x080005d4                RCC_I2SCLKConfig
+                0x080005e0                RCC_AHB1PeriphClockCmd
+                0x080005fc                RCC_AHB2PeriphClockCmd
+                0x08000618                RCC_AHB3PeriphClockCmd
+                0x08000634                RCC_APB1PeriphClockCmd
+                0x08000650                RCC_APB2PeriphClockCmd
+                0x0800066c                RCC_AHB1PeriphResetCmd
+                0x08000688                RCC_AHB2PeriphResetCmd
+                0x080006a4                RCC_AHB3PeriphResetCmd
+                0x080006c0                RCC_APB1PeriphResetCmd
+                0x080006dc                RCC_APB2PeriphResetCmd
+                0x080006f8                RCC_AHB1PeriphClockLPModeCmd
+                0x08000714                RCC_AHB2PeriphClockLPModeCmd
+                0x08000730                RCC_AHB3PeriphClockLPModeCmd
+                0x0800074c                RCC_APB1PeriphClockLPModeCmd
+                0x08000768                RCC_APB2PeriphClockLPModeCmd
+                0x08000784                RCC_ITConfig
+                0x080007a0                RCC_GetFlagStatus
+                0x080007d0                RCC_ClearFlag
+                0x080007e4                RCC_GetITStatus
+                0x080007f8                RCC_ClearITPendingBit
+ .text          0x08000804      0x120 stm32f4xx_pwr.o
+                0x08000804                PWR_DeInit
+                0x08000820                PWR_BackupAccessCmd
+                0x0800082c                PWR_PVDLevelConfig
+                0x08000840                PWR_PVDCmd
+                0x0800084c                PWR_WakeUpPinCmd
+                0x08000858                PWR_BackupRegulatorCmd
+                0x08000864                PWR_MainRegulatorModeConfig
+                0x08000880                PWR_FlashPowerDownCmd
+                0x0800088c                PWR_EnterSTOPMode
+                0x080008d0                PWR_EnterSTANDBYMode
+                0x080008fc                PWR_GetFlagStatus
+                0x08000910                PWR_ClearFlag
+ .text          0x08000924      0xe50 stm32f4xx_tim.o
+                0x08000924                TIM_DeInit
+                0x08000af8                TIM_TimeBaseInit
+                0x08000ba8                TIM_TimeBaseStructInit
+                0x08000bbc                TIM_PrescalerConfig
+                0x08000bc4                TIM_CounterModeConfig
+                0x08000bd4                TIM_SetCounter
+                0x08000bd8                TIM_SetAutoreload
+                0x08000bdc                TIM_GetCounter
+                0x08000be0                TIM_GetPrescaler
+                0x08000be8                TIM_UpdateDisableConfig
+                0x08000c04                TIM_UpdateRequestConfig
+                0x08000c20                TIM_ARRPreloadConfig
+                0x08000c3c                TIM_SelectOnePulseMode
+                0x08000c54                TIM_SetClockDivision
+                0x08000c6c                TIM_Cmd
+                0x08000c88                TIM_OC1Init
+                0x08000d1c                TIM_OC2Init
+                0x08000db8                TIM_OC3Init
+                0x08000e50                TIM_OC4Init
+                0x08000ec4                TIM_OCStructInit
+                0x08000ed8                TIM_SelectOCxM
+                0x08000f28                TIM_SetCompare1
+                0x08000f2c                TIM_SetCompare2
+                0x08000f30                TIM_SetCompare3
+                0x08000f34                TIM_SetCompare4
+                0x08000f38                TIM_ForcedOC1Config
+                0x08000f48                TIM_ForcedOC2Config
+                0x08000f5c                TIM_ForcedOC3Config
+                0x08000f6c                TIM_ForcedOC4Config
+                0x08000f80                TIM_OC1PreloadConfig
+                0x08000f90                TIM_OC2PreloadConfig
+                0x08000fa4                TIM_OC3PreloadConfig
+                0x08000fb4                TIM_OC4PreloadConfig
+                0x08000fc8                TIM_OC1FastConfig
+                0x08000fd8                TIM_OC2FastConfig
+                0x08000fec                TIM_OC3FastConfig
+                0x08000ffc                TIM_OC4FastConfig
+                0x08001010                TIM_ClearOC1Ref
+                0x08001020                TIM_ClearOC2Ref
+                0x08001030                TIM_ClearOC3Ref
+                0x08001040                TIM_ClearOC4Ref
+                0x08001050                TIM_OC1PolarityConfig
+                0x08001060                TIM_OC1NPolarityConfig
+                0x08001070                TIM_OC2PolarityConfig
+                0x08001084                TIM_OC2NPolarityConfig
+                0x08001098                TIM_OC3PolarityConfig
+                0x080010ac                TIM_OC3NPolarityConfig
+                0x080010c0                TIM_OC4PolarityConfig
+                0x080010d4                TIM_CCxCmd
+                0x080010f8                TIM_CCxNCmd
+                0x0800111c                TIM_ICInit
+                0x08001288                TIM_ICStructInit
+                0x08001298                TIM_PWMIConfig
+                0x08001408                TIM_GetCapture1
+                0x0800140c                TIM_GetCapture2
+                0x08001410                TIM_GetCapture3
+                0x08001414                TIM_GetCapture4
+                0x08001418                TIM_SetIC1Prescaler
+                0x08001430                TIM_SetIC2Prescaler
+                0x0800144c                TIM_SetIC3Prescaler
+                0x08001464                TIM_SetIC4Prescaler
+                0x08001480                TIM_BDTRConfig
+                0x080014ac                TIM_BDTRStructInit
+                0x080014c0                TIM_CtrlPWMOutputs
+                0x080014e0                TIM_SelectCOM
+                0x080014fc                TIM_CCPreloadControl
+                0x08001518                TIM_ITConfig
+                0x0800152c                TIM_GenerateEvent
+                0x08001530                TIM_GetFlagStatus
+                0x0800153c                TIM_ClearFlag
+                0x08001544                TIM_GetITStatus
+                0x0800155c                TIM_ClearITPendingBit
+                0x08001564                TIM_DMAConfig
+                0x0800156c                TIM_DMACmd
+                0x08001580                TIM_SelectCCDMA
+                0x0800159c                TIM_InternalClockConfig
+                0x080015ac                TIM_ITRxExternalClockConfig
+                0x080015c8                TIM_TIxExternalClockConfig
+                0x08001658                TIM_ETRClockMode1Config
+                0x08001680                TIM_ETRClockMode2Config
+                0x080016a0                TIM_SelectInputTrigger
+                0x080016b0                TIM_SelectOutputTrigger
+                0x080016c8                TIM_SelectSlaveMode
+                0x080016e0                TIM_SelectMasterSlaveMode
+                0x080016f8                TIM_ETRConfig
+                0x08001710                TIM_EncoderInterfaceConfig
+                0x08001750                TIM_SelectHallSensor
+                0x0800176c                TIM_RemapConfig
+ .text          0x08001774      0x1b8 system_stm32f4xx.o
+                0x08001774                SystemInit
+                0x080018a0                SystemCoreClockUpdate
+ .text          0x0800192c       0x24 stm32f4xx_it.o
+                0x0800192c                NMI_Handler
+                0x08001930                HardFault_Handler
+                0x08001934                MemManage_Handler
+                0x08001938                BusFault_Handler
+                0x0800193c                UsageFault_Handler
+                0x08001940                SVC_Handler
+                0x08001944                DebugMon_Handler
+                0x08001948                PendSV_Handler
+                0x0800194c                SysTick_Handler
+ .text          0x08001950       0x1c main.o
+                0x08001950                rt_OneStep
+ .text.startup  0x0800196c       0x48 main.o
+                0x0800196c                main
+ *fill*         0x080019b4        0x4 00
+ .text          0x080019b8       0x38 pulsetoangle1_wrapper.o
+                0x080019b8                pulsetoangle1_Outputs_wrapper
+ .text          0x080019f0       0xe4 misc.o
+                0x080019f0                NVIC_PriorityGroupConfig
+                0x08001a04                NVIC_Init
+                0x08001a84                NVIC_SetVectorTable
+                0x08001a9c                NVIC_SystemLPConfig
+                0x08001ab8                SysTick_CLKSourceConfig
+ .text          0x08001ad4      0x478 stm32f4xx_dma.o
+                0x08001ad4                DMA_DeInit
+                0x08001cc0                DMA_Init
+                0x08001d48                DMA_StructInit
+                0x08001d6c                DMA_Cmd
+                0x08001d80                DMA_PeriphIncOffsetSizeConfig
+                0x08001d94                DMA_FlowControllerConfig
+                0x08001da8                DMA_SetCurrDataCounter
+                0x08001dac                DMA_GetCurrDataCounter
+                0x08001db4                DMA_DoubleBufferModeConfig
+                0x08001dcc                DMA_DoubleBufferModeCmd
+                0x08001de0                DMA_MemoryTargetConfig
+                0x08001dec                DMA_GetCurrentMemoryTarget
+                0x08001df4                DMA_GetCmdStatus
+                0x08001dfc                DMA_GetFIFOStatus
+                0x08001e04                DMA_GetFlagStatus
+                0x08001e44                DMA_ClearFlag
+                0x08001e7c                DMA_ITConfig
+                0x08001ebc                DMA_GetITStatus
+                0x08001f14                DMA_ClearITPendingBit
+ .text          0x08001f4c        0x0 BalanceFuzzy_data.o
+ *fill*         0x08001f4c        0x4 00
+ .text          0x08001f50       0x20 rtGetNaN.o
+                0x08001f50                rtGetNaN
+                0x08001f60                rtGetNaNF
+ .text          0x08001f70      0x2e0 stm32f4_io_customcode.o
+                0x08001f70                enable_customio
+                0x080020ec                disable_customio
+                0x080020f0                output_customio
+                0x080021a4                TIM_EncoderInterfaceConfig2
+                0x080021e4                TIM_SetAutoreload2
+                0x080021e8                TIM_Cmd2
+                0x08002204                encodersReset
+                0x08002248                TIM_GetCounter2
+                0x0800224c                TIM_SetCounter2
+ .text          0x08002250      0x8ec waijung_hwdrvlib.o
+                0x08002250                Uart_rxascii_proc
+                0x080022f4                Uart_rxpacket_proc
+                0x080023f8                UARTTxBlockingWrite
+                0x08002514                enable_UARTTx
+                0x08002518                UARTSetup_WaitTx
+                0x08002580                UART1_Write
+                0x08002644                UART1_TxUpdate
+                0x080026f8                UART1_FlushTxBuffer
+                0x08002760                enable_UARTSetup
+                0x08002854                SysTimer_Start
+                0x08002880                SysTimer_IsTimeout
+                0x080028a8                SysTimer_uS_Start
+                0x080028d0                SysTimer_uS_IsTimeout
+                0x08002970                SysTimer_delay_us
+                0x080029fc                enable_EncoderDigitalInput
+                0x08002a2c                enable_EncoderQuadraturEncoder
+                0x08002a30                disable_EncoderQuadraturEncoder
+                0x08002a34                enable_BasicPWM
+                0x08002ae0                disable_BasicPWM
+                0x08002af0                terminate_BasicPWM
+                0x08002b00                enable_DigitalOutput
+                0x08002b38                output_EncoderQuadraturEncoder
+ *fill*         0x08002b3c        0x4 00
+ .text          0x08002b40     0x2700 BalanceFuzzy.o
+                0x08002c68                BalanceFuzzy_IfActionSubsystem1
+                0x08002ca4                BalanceFuzzy_IfActionSubsystem3
+                0x08002cf0                BalanceFuzzy_IfActionSubsystem2
+                0x08002d3c                rt_roundd_snf
+                0x08002dc0                rt_modd_snf
+                0x08002e48                BalanceFuzzy_step
+                0x080051b0                BalanceFuzzy_initialize
+                0x0800523c                BalanceFuzzy_terminate
+ .text          0x08005240       0xf0 syscalls.o
+                0x08005240                _exit
+                0x08005244                _close
+                0x0800524c                _execve
+                0x08005260                _fork
+                0x08005274                _fstat
+                0x08005280                _getpid
+                0x08005284                _isatty
+                0x08005288                _kill
+                0x0800529c                _link
+                0x080052b0                _lseek
+                0x080052b4                _sbrk
+                0x080052ec                _read
+                0x080052f0                _stat
+                0x080052fc                _times
+                0x08005304                _unlink
+                0x08005318                _wait
+                0x0800532c                _write
+ .text          0x08005330       0xe0 rt_nonfinite.o
+                0x08005330                rt_InitInfAndNaN
+                0x08005394                rtIsInf
+                0x080053d4                rtIsInfF
+                0x08005408                rtIsNaN
+                0x0800540c                rtIsNaNF
+ .text          0x08005410      0x458 stm32f4xx_usart.o
+                0x08005410                USART_DeInit
+                0x080054e4                USART_Init
+                0x080055c4                USART_StructInit
+                0x080055dc                USART_ClockInit
+                0x08005604                USART_ClockStructInit
+                0x08005610                USART_Cmd
+                0x0800562c                USART_SetPrescaler
+                0x08005640                USART_OverSampling8Cmd
+                0x0800565c                USART_OneBitMethodCmd
+                0x08005678                USART_SendData
+                0x08005680                USART_ReceiveData
+                0x08005688                USART_SetAddress
+                0x080056a0                USART_ReceiverWakeUpCmd
+                0x080056bc                USART_WakeUpConfig
+                0x080056d4                USART_LINBreakDetectLengthConfig
+                0x080056ec                USART_LINCmd
+                0x08005708                USART_SendBreak
+                0x08005714                USART_HalfDuplexCmd
+                0x08005730                USART_SetGuardTime
+                0x08005744                USART_SmartCardCmd
+                0x08005760                USART_SmartCardNACKCmd
+                0x0800577c                USART_IrDAConfig
+                0x08005794                USART_IrDACmd
+                0x080057b0                USART_DMACmd
+                0x080057c4                USART_ITConfig
+                0x080057fc                USART_GetFlagStatus
+                0x08005808                USART_ClearFlag
+                0x08005810                USART_GetITStatus
+                0x08005858                USART_ClearITPendingBit
+ .text          0x08005868       0x28 pulsetoangle_wrapper.o
+                0x08005868                pulsetoangle_Outputs_wrapper
+ .text          0x08005890       0x40 rtGetInf.o
+                0x08005890                rtGetInf
+                0x080058a0                rtGetInfF
+                0x080058ac                rtGetMinusInf
+                0x080058c0                rtGetMinusInfF
+ .text          0x080058d0      0x32c stm32f4xx_gpio.o
+                0x080058d0                GPIO_DeInit
+                0x080059f8                GPIO_Init
+                0x08005b48                GPIO_StructInit
+                0x08005b5c                GPIO_PinLockConfig
+                0x08005b84                GPIO_ReadInputDataBit
+                0x08005b90                GPIO_ReadInputData
+                0x08005b98                GPIO_ReadOutputDataBit
+                0x08005ba4                GPIO_ReadOutputData
+                0x08005bac                GPIO_SetBits
+                0x08005bb0                GPIO_ResetBits
+                0x08005bb4                GPIO_WriteBit
+                0x08005bc0                GPIO_Write
+                0x08005bc4                GPIO_ToggleBits
+                0x08005bcc                GPIO_PinAFConfig
+ .text          0x08005bfc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+ *fill*         0x08005bfc        0x4 00
+ .text.ceil     0x08005c00      0x120 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+                0x08005c00                ceil
+ .text          0x08005d20        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .text.floor    0x08005d20      0x110 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                0x08005d20                floor
+ .text          0x08005e30      0x370 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x08005e30                __aeabi_drsub
+                0x08005e38                __aeabi_dsub
+                0x08005e38                __subdf3
+                0x08005e3c                __aeabi_dadd
+                0x08005e3c                __adddf3
+                0x080060b4                __floatunsidf
+                0x080060b4                __aeabi_ui2d
+                0x080060d4                __floatsidf
+                0x080060d4                __aeabi_i2d
+                0x080060f8                __aeabi_f2d
+                0x080060f8                __extendsfdf2
+                0x08006134                __floatundidf
+                0x08006134                __aeabi_ul2d
+                0x08006144                __floatdidf
+                0x08006144                __aeabi_l2d
+ .text          0x080061a0      0x424 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x080061a0                __aeabi_dmul
+                0x080061a0                __muldf3
+                0x080063f4                __divdf3
+                0x080063f4                __aeabi_ddiv
+ .text          0x080065c4      0x110 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                0x080065c4                __gtdf2
+                0x080065c4                __gedf2
+                0x080065cc                __ltdf2
+                0x080065cc                __ledf2
+                0x080065d4                __nedf2
+                0x080065d4                __eqdf2
+                0x080065d4                __cmpdf2
+                0x08006650                __aeabi_cdrcmple
+                0x08006660                __aeabi_cdcmpeq
+                0x08006660                __aeabi_cdcmple
+                0x08006670                __aeabi_dcmpeq
+                0x08006684                __aeabi_dcmplt
+                0x08006698                __aeabi_dcmple
+                0x080066ac                __aeabi_dcmpge
+                0x080066c0                __aeabi_dcmpgt
+ .text          0x080066d4       0x40 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x080066d4                __aeabi_d2uiz
+                0x080066d4                __fixunsdfsi
+ .text          0x08006714        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .text.memcpy   0x08006714      0x144 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+                0x08006714                memcpy
+ .text          0x08006858        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x08006858       0x1c e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                0x08006858                cleanup_glue
+ .text._reclaim_reent
+                0x08006874       0x8c e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                0x08006874                _reclaim_reent
+ .text._wrapup_reent
+                0x08006900       0x74 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                0x08006900                _wrapup_reent
+ .text          0x08006974        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x08006974       0x98 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                0x08006974                _malloc_trim_r
+ .text._free_r  0x08006a0c      0x194 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                0x08006a0c                _free_r
+ .text          0x08006ba0        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .text          0x08006ba0        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x08006ba0      0x55c e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x08006ba0                _malloc_r
+ .text          0x080070fc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x080070fc        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                0x080070fc                __malloc_lock
+ .text.__malloc_unlock
+                0x08007100        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                0x08007100                __malloc_unlock
+ .text          0x08007104        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x08007104       0x24 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                0x08007104                _sbrk_r
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x08007128        0x4 BalanceFuzzy.o
+                0x08007128                BalanceFuzzy_M
+ .rodata.str1.4
+                0x0800712c        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x08007130        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                0x08007130                _global_impure_ptr
+ *(.eh_frame*)
+
+.glue_7         0x08007134        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08007134        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08007134        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08007134        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08007134        0x0
+ .iplt          0x00000000        0x0 startup_stm32f4xx.o
+
+.rel.dyn        0x08007134        0x0
+ .rel.iplt      0x00000000        0x0 startup_stm32f4xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08007134                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08007134                __exidx_end = .
+                0x08007134                __etext = .
+
+.data           0x20000000      0xefc load address 0x08007134
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x20000000        0x0 startup_stm32f4xx.o
+ .data          0x20000000        0x0 stm32f4xx_syscfg.o
+ .data          0x20000000       0x10 stm32f4xx_rcc.o
+ .data          0x20000010        0x0 stm32f4xx_pwr.o
+ .data          0x20000010        0x0 stm32f4xx_tim.o
+ .data          0x20000010       0x14 system_stm32f4xx.o
+                0x20000010                AHBPrescTable
+                0x20000020                SystemCoreClock
+ .data          0x20000024        0x0 stm32f4xx_it.o
+ .data          0x20000024        0x4 main.o
+ .data          0x20000028        0x0 pulsetoangle1_wrapper.o
+ .data          0x20000028        0x0 misc.o
+ .data          0x20000028        0x0 stm32f4xx_dma.o
+ .data          0x20000028      0x690 BalanceFuzzy_data.o
+                0x20000028                BalanceFuzzy_P
+ .data          0x200006b8        0x0 rtGetNaN.o
+ .data          0x200006b8        0x0 stm32f4_io_customcode.o
+ .data          0x200006b8        0x0 waijung_hwdrvlib.o
+ .data          0x200006b8        0x0 BalanceFuzzy.o
+ .data          0x200006b8        0x4 syscalls.o
+                0x200006b8                environ
+ .data          0x200006bc        0x0 rt_nonfinite.o
+ .data          0x200006bc        0x0 stm32f4xx_usart.o
+ .data          0x200006bc        0x0 pulsetoangle_wrapper.o
+ .data          0x200006bc        0x0 rtGetInf.o
+ .data          0x200006bc        0x0 stm32f4xx_gpio.o
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .data          0x200006bc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ *fill*         0x200006bc        0x4 00
+ .data.impure_data
+                0x200006c0      0x428 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000ae8        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                0x20000ae8                _impure_ptr
+ .data          0x20000aec        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x20000aec      0x408 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000aec                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x20000ef4        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000ef4                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000ef8        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000ef8                __malloc_sbrk_base
+ .data          0x20000efc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .data          0x20000efc        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                0x20000efc                . = ALIGN (0x4)
+                0x20000efc                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000efc                PROVIDE (__preinit_array_end, .)
+                0x20000efc                . = ALIGN (0x4)
+                0x20000efc                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000efc                PROVIDE (__init_array_end, .)
+                0x20000efc                . = ALIGN (0x4)
+                0x20000efc                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000efc                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000efc                . = ALIGN (0x4)
+                0x20000efc                __data_end__ = .
+
+.igot.plt       0x20000efc        0x0 load address 0x08008030
+ .igot.plt      0x00000000        0x0 startup_stm32f4xx.o
+
+.bss            0x20000f00      0x338 load address 0x08008038
+                0x20000f00                . = ALIGN (0x4)
+                0x20000f00                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000f00        0x0 startup_stm32f4xx.o
+ .bss           0x20000f00        0x0 stm32f4xx_syscfg.o
+ .bss           0x20000f00        0x0 stm32f4xx_rcc.o
+ .bss           0x20000f00        0x0 stm32f4xx_pwr.o
+ .bss           0x20000f00        0x0 stm32f4xx_tim.o
+ .bss           0x20000f00        0x0 system_stm32f4xx.o
+ .bss           0x20000f00        0x0 stm32f4xx_it.o
+ .bss           0x20000f00        0x4 main.o
+                0x20000f00                systick_count
+ .bss           0x20000f04        0x0 pulsetoangle1_wrapper.o
+ .bss           0x20000f04        0x0 misc.o
+ .bss           0x20000f04        0x0 stm32f4xx_dma.o
+ .bss           0x20000f04        0x0 BalanceFuzzy_data.o
+ .bss           0x20000f04        0x0 rtGetNaN.o
+ .bss           0x20000f04        0x0 stm32f4_io_customcode.o
+ .bss           0x20000f04        0x0 waijung_hwdrvlib.o
+ .bss           0x20000f04        0x0 BalanceFuzzy.o
+ .bss           0x20000f04        0x8 syscalls.o
+                0x20000f08                __env
+ .bss           0x20000f0c        0x0 rt_nonfinite.o
+ .bss           0x20000f0c        0x0 stm32f4xx_usart.o
+ .bss           0x20000f0c        0x0 pulsetoangle_wrapper.o
+ .bss           0x20000f0c        0x0 rtGetInf.o
+ .bss           0x20000f0c        0x0 stm32f4xx_gpio.o
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .bss           0x20000f0c        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x20000f0c        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000f0c                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x20000f10        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000f10                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x20000f14        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000f14                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x20000f18       0x28 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                0x20000f18                __malloc_current_mallinfo
+ .bss           0x20000f40        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .bss           0x20000f40        0x0 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+ *(COMMON)
+ COMMON         0x20000f40       0x10 stm32f4_io_customcode.o
+                0x20000f40                encoder1total
+                0x20000f44                encoder1
+                0x20000f46                oldEncoder1
+                0x20000f48                oldEncoder2
+                0x20000f4a                encoder2
+                0x20000f4c                encoder2total
+ COMMON         0x20000f50      0x274 waijung_hwdrvlib.o
+                0x20000f50                UARTTx_packet_buffer
+                0x20000f84                DigitalOutput_portVal
+                0x20000f86                UARTSetup_Tx_State
+                0x20000f88                UARTSetup_DMA_Init
+                0x20000fc4                UART1_Tx_Buffer
+ *fill*         0x200011c4        0x4 00
+ COMMON         0x200011c8       0x48 BalanceFuzzy.o
+                0x200011c8                BalanceFuzzy_M_
+                0x200011d0                BalanceFuzzy_DW
+                0x200011e0                BalanceFuzzy_B
+ COMMON         0x20001210       0x24 rt_nonfinite.o
+                0x20001210                rtNaNF
+                0x20001214                rtInfF
+                0x20001218                rtInf
+                0x20001220                rtNaN
+                0x20001228                rtMinusInf
+                0x20001230                rtMinusInfF
+ COMMON         0x20001234        0x4 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                0x20001234                errno
+                0x20001238                . = ALIGN (0x4)
+                0x20001238                __bss_end__ = .
+
+.heap           0x20001238     0x2000
+                0x20001238                __end__ = .
+                0x20001238                end = __end__
+ *(.heap*)
+ .heap          0x20001238     0x2000 startup_stm32f4xx.o
+                0x20001238                __HeapBase
+                0x20003238                __HeapLimit = .
+
+.stack_dummy    0x20001238     0x2000
+ *(.stack*)
+ .stack         0x20001238     0x2000 startup_stm32f4xx.o
+                0x2001c000                __StackTop = (ORIGIN (RAM) + 0x1c000)
+                0x2001a000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x2001c000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(BalanceFuzzy.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x21 startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000021       0x37 stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000058       0x37 stm32f4xx_rcc.o
+ .ARM.attributes
+                0x0000008f       0x37 stm32f4xx_pwr.o
+ .ARM.attributes
+                0x000000c6       0x37 stm32f4xx_tim.o
+ .ARM.attributes
+                0x000000fd       0x37 system_stm32f4xx.o
+ .ARM.attributes
+                0x00000134       0x37 stm32f4xx_it.o
+ .ARM.attributes
+                0x0000016b       0x37 main.o
+ .ARM.attributes
+                0x000001a2       0x37 pulsetoangle1_wrapper.o
+ .ARM.attributes
+                0x000001d9       0x37 misc.o
+ .ARM.attributes
+                0x00000210       0x37 stm32f4xx_dma.o
+ .ARM.attributes
+                0x00000247       0x37 BalanceFuzzy_data.o
+ .ARM.attributes
+                0x0000027e       0x37 rtGetNaN.o
+ .ARM.attributes
+                0x000002b5       0x37 stm32f4_io_customcode.o
+ .ARM.attributes
+                0x000002ec       0x37 waijung_hwdrvlib.o
+ .ARM.attributes
+                0x00000323       0x37 BalanceFuzzy.o
+ .ARM.attributes
+                0x0000035a       0x37 syscalls.o
+ .ARM.attributes
+                0x00000391       0x37 rt_nonfinite.o
+ .ARM.attributes
+                0x000003c8       0x37 stm32f4xx_usart.o
+ .ARM.attributes
+                0x000003ff       0x37 pulsetoangle_wrapper.o
+ .ARM.attributes
+                0x00000436       0x37 rtGetInf.o
+ .ARM.attributes
+                0x0000046d       0x37 stm32f4xx_gpio.o
+ .ARM.attributes
+                0x000004a4       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+ .ARM.attributes
+                0x000004d2       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000500       0x1e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000051e       0x1e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x0000053c       0x1e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000055a       0x1e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000578       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000005a6       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000005d4       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000602       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000630       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000065e       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000068c       0x2e e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 stm32f4xx_syscfg.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 stm32f4xx_tim.o
+ .comment       0x00000000       0x71 system_stm32f4xx.o
+ .comment       0x00000000       0x71 stm32f4xx_it.o
+ .comment       0x00000000       0x71 main.o
+ .comment       0x00000000       0x71 pulsetoangle1_wrapper.o
+ .comment       0x00000000       0x71 misc.o
+ .comment       0x00000000       0x71 stm32f4xx_dma.o
+ .comment       0x00000000       0x71 BalanceFuzzy_data.o
+ .comment       0x00000000       0x71 rtGetNaN.o
+ .comment       0x00000000       0x71 stm32f4_io_customcode.o
+ .comment       0x00000000       0x71 waijung_hwdrvlib.o
+ .comment       0x00000000       0x71 BalanceFuzzy.o
+ .comment       0x00000000       0x71 syscalls.o
+ .comment       0x00000000       0x71 rt_nonfinite.o
+ .comment       0x00000000       0x71 stm32f4xx_usart.o
+ .comment       0x00000000       0x71 pulsetoangle_wrapper.o
+ .comment       0x00000000       0x71 rtGetInf.o
+ .comment       0x00000000       0x71 stm32f4xx_gpio.o
+
+.debug_frame    0x00000000      0x1ec
+ .debug_frame   0x00000000       0x38 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+ .debug_frame   0x00000038       0x34 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x0000006c       0x30 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+ .debug_frame   0x0000009c       0x6c e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+ .debug_frame   0x00000108       0x50 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+ .debug_frame   0x00000158       0x38 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+ .debug_frame   0x00000190       0x30 e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+ .debug_frame   0x000001c0       0x2c e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    startup_stm32f4xx.o
+AHBPrescTable                                     system_stm32f4xx.o
+BalanceFuzzy_B                                    BalanceFuzzy.o
+BalanceFuzzy_DW                                   BalanceFuzzy.o
+BalanceFuzzy_IfActionSubsystem1                   BalanceFuzzy.o
+BalanceFuzzy_IfActionSubsystem2                   BalanceFuzzy.o
+BalanceFuzzy_IfActionSubsystem3                   BalanceFuzzy.o
+BalanceFuzzy_M                                    BalanceFuzzy.o
+BalanceFuzzy_M_                                   BalanceFuzzy.o
+BalanceFuzzy_P                                    BalanceFuzzy_data.o
+                                                  BalanceFuzzy.o
+BalanceFuzzy_initialize                           BalanceFuzzy.o
+                                                  main.o
+BalanceFuzzy_step                                 BalanceFuzzy.o
+                                                  main.o
+BalanceFuzzy_terminate                            BalanceFuzzy.o
+BusFault_Handler                                  stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+CAN1_RX0_IRQHandler                               startup_stm32f4xx.o
+CAN1_RX1_IRQHandler                               startup_stm32f4xx.o
+CAN1_SCE_IRQHandler                               startup_stm32f4xx.o
+CAN1_TX_IRQHandler                                startup_stm32f4xx.o
+CAN2_RX0_IRQHandler                               startup_stm32f4xx.o
+CAN2_RX1_IRQHandler                               startup_stm32f4xx.o
+CAN2_SCE_IRQHandler                               startup_stm32f4xx.o
+CAN2_TX_IRQHandler                                startup_stm32f4xx.o
+CRYP_IRQHandler                                   startup_stm32f4xx.o
+DCMI_IRQHandler                                   startup_stm32f4xx.o
+DMA1_Stream0_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream1_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream2_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream3_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream4_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream5_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream6_IRQHandler                           startup_stm32f4xx.o
+DMA1_Stream7_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream0_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream1_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream2_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream3_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream4_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream5_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream6_IRQHandler                           startup_stm32f4xx.o
+DMA2_Stream7_IRQHandler                           startup_stm32f4xx.o
+DMA_ClearFlag                                     stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_ClearITPendingBit                             stm32f4xx_dma.o
+DMA_Cmd                                           stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_DeInit                                        stm32f4xx_dma.o
+DMA_DoubleBufferModeCmd                           stm32f4xx_dma.o
+DMA_DoubleBufferModeConfig                        stm32f4xx_dma.o
+DMA_FlowControllerConfig                          stm32f4xx_dma.o
+DMA_GetCmdStatus                                  stm32f4xx_dma.o
+DMA_GetCurrDataCounter                            stm32f4xx_dma.o
+DMA_GetCurrentMemoryTarget                        stm32f4xx_dma.o
+DMA_GetFIFOStatus                                 stm32f4xx_dma.o
+DMA_GetFlagStatus                                 stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_GetITStatus                                   stm32f4xx_dma.o
+DMA_ITConfig                                      stm32f4xx_dma.o
+DMA_Init                                          stm32f4xx_dma.o
+                                                  waijung_hwdrvlib.o
+DMA_MemoryTargetConfig                            stm32f4xx_dma.o
+DMA_PeriphIncOffsetSizeConfig                     stm32f4xx_dma.o
+DMA_SetCurrDataCounter                            stm32f4xx_dma.o
+DMA_StructInit                                    stm32f4xx_dma.o
+DebugMon_Handler                                  stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+Default_Handler                                   startup_stm32f4xx.o
+DigitalOutput_portVal                             waijung_hwdrvlib.o
+ETH_IRQHandler                                    startup_stm32f4xx.o
+ETH_WKUP_IRQHandler                               startup_stm32f4xx.o
+EXTI0_IRQHandler                                  startup_stm32f4xx.o
+EXTI15_10_IRQHandler                              startup_stm32f4xx.o
+EXTI1_IRQHandler                                  startup_stm32f4xx.o
+EXTI2_IRQHandler                                  startup_stm32f4xx.o
+EXTI3_IRQHandler                                  startup_stm32f4xx.o
+EXTI4_IRQHandler                                  startup_stm32f4xx.o
+EXTI9_5_IRQHandler                                startup_stm32f4xx.o
+FLASH_IRQHandler                                  startup_stm32f4xx.o
+FPU_IRQHandler                                    startup_stm32f4xx.o
+FSMC_IRQHandler                                   startup_stm32f4xx.o
+GPIO_DeInit                                       stm32f4xx_gpio.o
+GPIO_Init                                         stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4_io_customcode.o
+GPIO_PinAFConfig                                  stm32f4xx_gpio.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4_io_customcode.o
+GPIO_PinLockConfig                                stm32f4xx_gpio.o
+GPIO_ReadInputData                                stm32f4xx_gpio.o
+GPIO_ReadInputDataBit                             stm32f4xx_gpio.o
+GPIO_ReadOutputData                               stm32f4xx_gpio.o
+GPIO_ReadOutputDataBit                            stm32f4xx_gpio.o
+GPIO_ResetBits                                    stm32f4xx_gpio.o
+GPIO_SetBits                                      stm32f4xx_gpio.o
+GPIO_StructInit                                   stm32f4xx_gpio.o
+                                                  stm32f4_io_customcode.o
+GPIO_ToggleBits                                   stm32f4xx_gpio.o
+GPIO_Write                                        stm32f4xx_gpio.o
+GPIO_WriteBit                                     stm32f4xx_gpio.o
+HASH_RNG_IRQHandler                               startup_stm32f4xx.o
+HardFault_Handler                                 stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+I2C1_ER_IRQHandler                                startup_stm32f4xx.o
+I2C1_EV_IRQHandler                                startup_stm32f4xx.o
+I2C2_ER_IRQHandler                                startup_stm32f4xx.o
+I2C2_EV_IRQHandler                                startup_stm32f4xx.o
+I2C3_ER_IRQHandler                                startup_stm32f4xx.o
+I2C3_EV_IRQHandler                                startup_stm32f4xx.o
+MemManage_Handler                                 stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+NMI_Handler                                       stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+NVIC_Init                                         misc.o
+NVIC_PriorityGroupConfig                          misc.o
+NVIC_SetVectorTable                               misc.o
+NVIC_SystemLPConfig                               misc.o
+OTG_FS_IRQHandler                                 startup_stm32f4xx.o
+OTG_FS_WKUP_IRQHandler                            startup_stm32f4xx.o
+OTG_HS_EP1_IN_IRQHandler                          startup_stm32f4xx.o
+OTG_HS_EP1_OUT_IRQHandler                         startup_stm32f4xx.o
+OTG_HS_IRQHandler                                 startup_stm32f4xx.o
+OTG_HS_WKUP_IRQHandler                            startup_stm32f4xx.o
+PVD_IRQHandler                                    startup_stm32f4xx.o
+PWR_BackupAccessCmd                               stm32f4xx_pwr.o
+PWR_BackupRegulatorCmd                            stm32f4xx_pwr.o
+PWR_ClearFlag                                     stm32f4xx_pwr.o
+PWR_DeInit                                        stm32f4xx_pwr.o
+PWR_EnterSTANDBYMode                              stm32f4xx_pwr.o
+PWR_EnterSTOPMode                                 stm32f4xx_pwr.o
+PWR_FlashPowerDownCmd                             stm32f4xx_pwr.o
+PWR_GetFlagStatus                                 stm32f4xx_pwr.o
+PWR_MainRegulatorModeConfig                       stm32f4xx_pwr.o
+PWR_PVDCmd                                        stm32f4xx_pwr.o
+PWR_PVDLevelConfig                                stm32f4xx_pwr.o
+PWR_WakeUpPinCmd                                  stm32f4xx_pwr.o
+PendSV_Handler                                    stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+RCC_AHB1PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4_io_customcode.o
+RCC_AHB1PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB1PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_gpio.o
+RCC_AHB2PeriphClockCmd                            stm32f4xx_rcc.o
+RCC_AHB2PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB2PeriphResetCmd                            stm32f4xx_rcc.o
+RCC_AHB3PeriphClockCmd                            stm32f4xx_rcc.o
+RCC_AHB3PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_AHB3PeriphResetCmd                            stm32f4xx_rcc.o
+RCC_APB1PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4_io_customcode.o
+RCC_APB1PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_APB1PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_usart.o
+                                                  stm32f4xx_tim.o
+                                                  stm32f4xx_pwr.o
+RCC_APB2PeriphClockCmd                            stm32f4xx_rcc.o
+                                                  waijung_hwdrvlib.o
+                                                  stm32f4_io_customcode.o
+RCC_APB2PeriphClockLPModeCmd                      stm32f4xx_rcc.o
+RCC_APB2PeriphResetCmd                            stm32f4xx_rcc.o
+                                                  stm32f4xx_usart.o
+                                                  stm32f4xx_tim.o
+                                                  stm32f4xx_syscfg.o
+RCC_AdjustHSICalibrationValue                     stm32f4xx_rcc.o
+RCC_BackupResetCmd                                stm32f4xx_rcc.o
+RCC_ClearFlag                                     stm32f4xx_rcc.o
+RCC_ClearITPendingBit                             stm32f4xx_rcc.o
+RCC_ClockSecuritySystemCmd                        stm32f4xx_rcc.o
+RCC_DeInit                                        stm32f4xx_rcc.o
+RCC_GetClocksFreq                                 stm32f4xx_rcc.o
+                                                  stm32f4xx_usart.o
+RCC_GetFlagStatus                                 stm32f4xx_rcc.o
+RCC_GetITStatus                                   stm32f4xx_rcc.o
+RCC_GetSYSCLKSource                               stm32f4xx_rcc.o
+RCC_HCLKConfig                                    stm32f4xx_rcc.o
+RCC_HSEConfig                                     stm32f4xx_rcc.o
+RCC_HSICmd                                        stm32f4xx_rcc.o
+RCC_I2SCLKConfig                                  stm32f4xx_rcc.o
+RCC_IRQHandler                                    startup_stm32f4xx.o
+RCC_ITConfig                                      stm32f4xx_rcc.o
+RCC_LSEConfig                                     stm32f4xx_rcc.o
+RCC_LSICmd                                        stm32f4xx_rcc.o
+RCC_MCO1Config                                    stm32f4xx_rcc.o
+RCC_MCO2Config                                    stm32f4xx_rcc.o
+RCC_PCLK1Config                                   stm32f4xx_rcc.o
+RCC_PCLK2Config                                   stm32f4xx_rcc.o
+RCC_PLLCmd                                        stm32f4xx_rcc.o
+RCC_PLLConfig                                     stm32f4xx_rcc.o
+RCC_PLLI2SCmd                                     stm32f4xx_rcc.o
+RCC_PLLI2SConfig                                  stm32f4xx_rcc.o
+RCC_RTCCLKCmd                                     stm32f4xx_rcc.o
+RCC_RTCCLKConfig                                  stm32f4xx_rcc.o
+RCC_SYSCLKConfig                                  stm32f4xx_rcc.o
+RCC_WaitForHSEStartUp                             stm32f4xx_rcc.o
+RTC_Alarm_IRQHandler                              startup_stm32f4xx.o
+RTC_WKUP_IRQHandler                               startup_stm32f4xx.o
+Reset_Handler                                     startup_stm32f4xx.o
+SDIO_IRQHandler                                   startup_stm32f4xx.o
+SPI1_IRQHandler                                   startup_stm32f4xx.o
+SPI2_IRQHandler                                   startup_stm32f4xx.o
+SPI3_IRQHandler                                   startup_stm32f4xx.o
+SVC_Handler                                       stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+SYSCFG_CompensationCellCmd                        stm32f4xx_syscfg.o
+SYSCFG_DeInit                                     stm32f4xx_syscfg.o
+SYSCFG_ETH_MediaInterfaceConfig                   stm32f4xx_syscfg.o
+SYSCFG_EXTILineConfig                             stm32f4xx_syscfg.o
+SYSCFG_GetCompensationCellStatus                  stm32f4xx_syscfg.o
+SYSCFG_MemoryRemapConfig                          stm32f4xx_syscfg.o
+SysTick_CLKSourceConfig                           misc.o
+SysTick_Handler                                   stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+SysTimer_IsTimeout                                waijung_hwdrvlib.o
+SysTimer_Start                                    waijung_hwdrvlib.o
+SysTimer_delay_us                                 waijung_hwdrvlib.o
+SysTimer_uS_IsTimeout                             waijung_hwdrvlib.o
+SysTimer_uS_Start                                 waijung_hwdrvlib.o
+SystemCoreClock                                   system_stm32f4xx.o
+SystemCoreClockUpdate                             system_stm32f4xx.o
+SystemInit                                        system_stm32f4xx.o
+                                                  startup_stm32f4xx.o
+TAMP_STAMP_IRQHandler                             startup_stm32f4xx.o
+TIM1_BRK_TIM9_IRQHandler                          startup_stm32f4xx.o
+TIM1_CC_IRQHandler                                startup_stm32f4xx.o
+TIM1_TRG_COM_TIM11_IRQHandler                     startup_stm32f4xx.o
+TIM1_UP_TIM10_IRQHandler                          startup_stm32f4xx.o
+TIM2_IRQHandler                                   startup_stm32f4xx.o
+TIM3_IRQHandler                                   startup_stm32f4xx.o
+TIM4_IRQHandler                                   startup_stm32f4xx.o
+TIM5_IRQHandler                                   startup_stm32f4xx.o
+TIM6_DAC_IRQHandler                               startup_stm32f4xx.o
+TIM7_IRQHandler                                   startup_stm32f4xx.o
+TIM8_BRK_TIM12_IRQHandler                         startup_stm32f4xx.o
+TIM8_CC_IRQHandler                                startup_stm32f4xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     startup_stm32f4xx.o
+TIM8_UP_TIM13_IRQHandler                          startup_stm32f4xx.o
+TIM_ARRPreloadConfig                              stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_BDTRConfig                                    stm32f4xx_tim.o
+TIM_BDTRStructInit                                stm32f4xx_tim.o
+TIM_CCPreloadControl                              stm32f4xx_tim.o
+TIM_CCxCmd                                        stm32f4xx_tim.o
+TIM_CCxNCmd                                       stm32f4xx_tim.o
+TIM_ClearFlag                                     stm32f4xx_tim.o
+TIM_ClearITPendingBit                             stm32f4xx_tim.o
+TIM_ClearOC1Ref                                   stm32f4xx_tim.o
+TIM_ClearOC2Ref                                   stm32f4xx_tim.o
+TIM_ClearOC3Ref                                   stm32f4xx_tim.o
+TIM_ClearOC4Ref                                   stm32f4xx_tim.o
+TIM_Cmd                                           stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_Cmd2                                          stm32f4_io_customcode.o
+TIM_CounterModeConfig                             stm32f4xx_tim.o
+TIM_CtrlPWMOutputs                                stm32f4xx_tim.o
+TIM_DMACmd                                        stm32f4xx_tim.o
+TIM_DMAConfig                                     stm32f4xx_tim.o
+TIM_DeInit                                        stm32f4xx_tim.o
+TIM_ETRClockMode1Config                           stm32f4xx_tim.o
+TIM_ETRClockMode2Config                           stm32f4xx_tim.o
+TIM_ETRConfig                                     stm32f4xx_tim.o
+TIM_EncoderInterfaceConfig                        stm32f4xx_tim.o
+TIM_EncoderInterfaceConfig2                       stm32f4_io_customcode.o
+TIM_ForcedOC1Config                               stm32f4xx_tim.o
+TIM_ForcedOC2Config                               stm32f4xx_tim.o
+TIM_ForcedOC3Config                               stm32f4xx_tim.o
+TIM_ForcedOC4Config                               stm32f4xx_tim.o
+TIM_GenerateEvent                                 stm32f4xx_tim.o
+TIM_GetCapture1                                   stm32f4xx_tim.o
+TIM_GetCapture2                                   stm32f4xx_tim.o
+TIM_GetCapture3                                   stm32f4xx_tim.o
+TIM_GetCapture4                                   stm32f4xx_tim.o
+TIM_GetCounter                                    stm32f4xx_tim.o
+TIM_GetCounter2                                   stm32f4_io_customcode.o
+TIM_GetFlagStatus                                 stm32f4xx_tim.o
+TIM_GetITStatus                                   stm32f4xx_tim.o
+TIM_GetPrescaler                                  stm32f4xx_tim.o
+TIM_ICInit                                        stm32f4xx_tim.o
+TIM_ICStructInit                                  stm32f4xx_tim.o
+TIM_ITConfig                                      stm32f4xx_tim.o
+TIM_ITRxExternalClockConfig                       stm32f4xx_tim.o
+TIM_InternalClockConfig                           stm32f4xx_tim.o
+TIM_OC1FastConfig                                 stm32f4xx_tim.o
+TIM_OC1Init                                       stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_OC1NPolarityConfig                            stm32f4xx_tim.o
+TIM_OC1PolarityConfig                             stm32f4xx_tim.o
+TIM_OC1PreloadConfig                              stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_OC2FastConfig                                 stm32f4xx_tim.o
+TIM_OC2Init                                       stm32f4xx_tim.o
+TIM_OC2NPolarityConfig                            stm32f4xx_tim.o
+TIM_OC2PolarityConfig                             stm32f4xx_tim.o
+TIM_OC2PreloadConfig                              stm32f4xx_tim.o
+TIM_OC3FastConfig                                 stm32f4xx_tim.o
+TIM_OC3Init                                       stm32f4xx_tim.o
+TIM_OC3NPolarityConfig                            stm32f4xx_tim.o
+TIM_OC3PolarityConfig                             stm32f4xx_tim.o
+TIM_OC3PreloadConfig                              stm32f4xx_tim.o
+TIM_OC4FastConfig                                 stm32f4xx_tim.o
+TIM_OC4Init                                       stm32f4xx_tim.o
+TIM_OC4PolarityConfig                             stm32f4xx_tim.o
+TIM_OC4PreloadConfig                              stm32f4xx_tim.o
+TIM_OCStructInit                                  stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_PWMIConfig                                    stm32f4xx_tim.o
+TIM_PrescalerConfig                               stm32f4xx_tim.o
+TIM_RemapConfig                                   stm32f4xx_tim.o
+TIM_SelectCCDMA                                   stm32f4xx_tim.o
+TIM_SelectCOM                                     stm32f4xx_tim.o
+TIM_SelectHallSensor                              stm32f4xx_tim.o
+TIM_SelectInputTrigger                            stm32f4xx_tim.o
+TIM_SelectMasterSlaveMode                         stm32f4xx_tim.o
+TIM_SelectOCxM                                    stm32f4xx_tim.o
+TIM_SelectOnePulseMode                            stm32f4xx_tim.o
+TIM_SelectOutputTrigger                           stm32f4xx_tim.o
+TIM_SelectSlaveMode                               stm32f4xx_tim.o
+TIM_SetAutoreload                                 stm32f4xx_tim.o
+TIM_SetAutoreload2                                stm32f4_io_customcode.o
+TIM_SetClockDivision                              stm32f4xx_tim.o
+TIM_SetCompare1                                   stm32f4xx_tim.o
+TIM_SetCompare2                                   stm32f4xx_tim.o
+TIM_SetCompare3                                   stm32f4xx_tim.o
+TIM_SetCompare4                                   stm32f4xx_tim.o
+TIM_SetCounter                                    stm32f4xx_tim.o
+TIM_SetCounter2                                   stm32f4_io_customcode.o
+TIM_SetIC1Prescaler                               stm32f4xx_tim.o
+TIM_SetIC2Prescaler                               stm32f4xx_tim.o
+TIM_SetIC3Prescaler                               stm32f4xx_tim.o
+TIM_SetIC4Prescaler                               stm32f4xx_tim.o
+TIM_TIxExternalClockConfig                        stm32f4xx_tim.o
+TIM_TimeBaseInit                                  stm32f4xx_tim.o
+                                                  waijung_hwdrvlib.o
+TIM_TimeBaseStructInit                            stm32f4xx_tim.o
+TIM_UpdateDisableConfig                           stm32f4xx_tim.o
+TIM_UpdateRequestConfig                           stm32f4xx_tim.o
+UART1_FlushTxBuffer                               waijung_hwdrvlib.o
+UART1_TxUpdate                                    waijung_hwdrvlib.o
+UART1_Tx_Buffer                                   waijung_hwdrvlib.o
+UART1_Write                                       waijung_hwdrvlib.o
+UART4_IRQHandler                                  startup_stm32f4xx.o
+UART5_IRQHandler                                  startup_stm32f4xx.o
+UARTSetup_DMA_Init                                waijung_hwdrvlib.o
+UARTSetup_Tx_State                                waijung_hwdrvlib.o
+UARTSetup_WaitTx                                  waijung_hwdrvlib.o
+UARTTxBlockingWrite                               waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+UARTTx_packet_buffer                              BalanceFuzzy.o
+                                                  waijung_hwdrvlib.o
+USART1_IRQHandler                                 startup_stm32f4xx.o
+USART2_IRQHandler                                 startup_stm32f4xx.o
+USART3_IRQHandler                                 startup_stm32f4xx.o
+USART6_IRQHandler                                 startup_stm32f4xx.o
+USART_ClearFlag                                   stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_ClearITPendingBit                           stm32f4xx_usart.o
+USART_ClockInit                                   stm32f4xx_usart.o
+USART_ClockStructInit                             stm32f4xx_usart.o
+USART_Cmd                                         stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_DMACmd                                      stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_DeInit                                      stm32f4xx_usart.o
+USART_GetFlagStatus                               stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_GetITStatus                                 stm32f4xx_usart.o
+USART_HalfDuplexCmd                               stm32f4xx_usart.o
+USART_ITConfig                                    stm32f4xx_usart.o
+USART_Init                                        stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_IrDACmd                                     stm32f4xx_usart.o
+USART_IrDAConfig                                  stm32f4xx_usart.o
+USART_LINBreakDetectLengthConfig                  stm32f4xx_usart.o
+USART_LINCmd                                      stm32f4xx_usart.o
+USART_OneBitMethodCmd                             stm32f4xx_usart.o
+USART_OverSampling8Cmd                            stm32f4xx_usart.o
+                                                  waijung_hwdrvlib.o
+USART_ReceiveData                                 stm32f4xx_usart.o
+USART_ReceiverWakeUpCmd                           stm32f4xx_usart.o
+USART_SendBreak                                   stm32f4xx_usart.o
+USART_SendData                                    stm32f4xx_usart.o
+USART_SetAddress                                  stm32f4xx_usart.o
+USART_SetGuardTime                                stm32f4xx_usart.o
+USART_SetPrescaler                                stm32f4xx_usart.o
+USART_SmartCardCmd                                stm32f4xx_usart.o
+USART_SmartCardNACKCmd                            stm32f4xx_usart.o
+USART_StructInit                                  stm32f4xx_usart.o
+USART_WakeUpConfig                                stm32f4xx_usart.o
+Uart_rxascii_proc                                 waijung_hwdrvlib.o
+Uart_rxpacket_proc                                waijung_hwdrvlib.o
+UsageFault_Handler                                stm32f4xx_it.o
+                                                  startup_stm32f4xx.o
+WWDG_IRQHandler                                   startup_stm32f4xx.o
+__HeapBase                                        startup_stm32f4xx.o
+__HeapLimit                                       startup_stm32f4xx.o
+__StackLimit                                      startup_stm32f4xx.o
+__StackTop                                        startup_stm32f4xx.o
+__adddf3                                          e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_cdcmpeq                                   e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdcmple                                   e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_cdrcmple                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__aeabi_d2uiz                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                                                  BalanceFuzzy.o
+__aeabi_dadd                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+                                                  BalanceFuzzy.o
+                                                  pulsetoangle1_wrapper.o
+__aeabi_dcmpeq                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  rt_nonfinite.o
+                                                  BalanceFuzzy.o
+__aeabi_dcmpge                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  BalanceFuzzy.o
+__aeabi_dcmpgt                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+                                                  BalanceFuzzy.o
+__aeabi_dcmple                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  BalanceFuzzy.o
+__aeabi_dcmplt                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+                                                  BalanceFuzzy.o
+__aeabi_ddiv                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                                                  BalanceFuzzy.o
+__aeabi_dmul                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+                                                  pulsetoangle_wrapper.o
+                                                  BalanceFuzzy.o
+                                                  pulsetoangle1_wrapper.o
+__aeabi_drsub                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_dsub                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  BalanceFuzzy.o
+__aeabi_f2d                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_i2d                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+                                                  pulsetoangle_wrapper.o
+                                                  pulsetoangle1_wrapper.o
+__aeabi_l2d                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ui2d                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__aeabi_ul2d                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__bss_end__                                       syscalls.o
+                                                  startup_stm32f4xx.o
+__bss_start__                                     startup_stm32f4xx.o
+__cmpdf2                                          e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__data_end__                                      startup_stm32f4xx.o
+__data_start__                                    startup_stm32f4xx.o
+__divdf3                                          e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+__env                                             syscalls.o
+__eqdf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__etext                                           startup_stm32f4xx.o
+__extendsfdf2                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__fixunsdfsi                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_fixunsdfsi.o)
+__floatdidf                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatsidf                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatundidf                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__floatunsidf                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+__gedf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__gtdf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__isr_vector                                      startup_stm32f4xx.o
+__ledf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__ltdf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__malloc_av_                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_current_mallinfo                         e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_lock                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_max_sbrked_mem                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+__malloc_max_total_mem                            e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+__malloc_sbrk_base                                e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_top_pad                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_trim_threshold                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__malloc_unlock                                   e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mlock.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+__muldf3                                          e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_muldivdf3.o)
+__nedf2                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_cmpdf2.o)
+__subdf3                                          e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/armv7e-m\libgcc.a(_arm_addsubdf3.o)
+_close                                            syscalls.o
+_execve                                           syscalls.o
+_exit                                             syscalls.o
+_fork                                             syscalls.o
+_free_r                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+_fstat                                            syscalls.o
+_getpid                                           syscalls.o
+_global_impure_ptr                                e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+_impure_ptr                                       e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-impure.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+_isatty                                           syscalls.o
+_kill                                             syscalls.o
+_link                                             syscalls.o
+_lseek                                            syscalls.o
+_malloc_r                                         e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+_malloc_trim_r                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+_read                                             syscalls.o
+_reclaim_reent                                    e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+_sbrk                                             syscalls.o
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+_sbrk_r                                           e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-mallocr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-freer.o)
+_stat                                             syscalls.o
+_times                                            syscalls.o
+_unlink                                           syscalls.o
+_wait                                             syscalls.o
+_wrapup_reent                                     e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+_write                                            syscalls.o
+ceil                                              e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_ceil.o)
+                                                  BalanceFuzzy.o
+cleanup_glue                                      e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+disable_BasicPWM                                  waijung_hwdrvlib.o
+disable_EncoderQuadraturEncoder                   waijung_hwdrvlib.o
+disable_customio                                  stm32f4_io_customcode.o
+                                                  waijung_hwdrvlib.o
+enable_BasicPWM                                   waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_DigitalOutput                              waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_EncoderDigitalInput                        waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_EncoderQuadraturEncoder                    waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_UARTSetup                                  waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_UARTTx                                     waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+enable_customio                                   stm32f4_io_customcode.o
+                                                  waijung_hwdrvlib.o
+encoder1                                          stm32f4_io_customcode.o
+encoder1total                                     stm32f4_io_customcode.o
+encoder2                                          stm32f4_io_customcode.o
+encoder2total                                     stm32f4_io_customcode.o
+encodersReset                                     stm32f4_io_customcode.o
+environ                                           syscalls.o
+errno                                             e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-sbrkr.o)
+                                                  e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-reent.o)
+                                                  syscalls.o
+floor                                             e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libm.a(lib_a-s_floor.o)
+                                                  BalanceFuzzy.o
+main                                              main.o
+                                                  startup_stm32f4xx.o
+memcpy                                            e:/learning/matlab_library_stm32f4/waijung13_10a/utils/gnu_tools_arm_embedded/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv7e-m\libg.a(lib_a-memcpy.o)
+                                                  waijung_hwdrvlib.o
+oldEncoder1                                       stm32f4_io_customcode.o
+oldEncoder2                                       stm32f4_io_customcode.o
+output_EncoderQuadraturEncoder                    waijung_hwdrvlib.o
+                                                  BalanceFuzzy.o
+output_customio                                   stm32f4_io_customcode.o
+                                                  waijung_hwdrvlib.o
+pulsetoangle1_Outputs_wrapper                     pulsetoangle1_wrapper.o
+                                                  BalanceFuzzy.o
+pulsetoangle_Outputs_wrapper                      pulsetoangle_wrapper.o
+                                                  BalanceFuzzy.o
+rtGetInf                                          rtGetInf.o
+                                                  rt_nonfinite.o
+rtGetInfF                                         rtGetInf.o
+                                                  rt_nonfinite.o
+rtGetMinusInf                                     rtGetInf.o
+                                                  rt_nonfinite.o
+rtGetMinusInfF                                    rtGetInf.o
+                                                  rt_nonfinite.o
+rtGetNaN                                          rtGetNaN.o
+                                                  rt_nonfinite.o
+rtGetNaNF                                         rtGetNaN.o
+                                                  rt_nonfinite.o
+rtInf                                             rt_nonfinite.o
+rtInfF                                            rt_nonfinite.o
+rtIsInf                                           rt_nonfinite.o
+                                                  BalanceFuzzy.o
+rtIsInfF                                          rt_nonfinite.o
+rtIsNaN                                           rt_nonfinite.o
+                                                  BalanceFuzzy.o
+rtIsNaNF                                          rt_nonfinite.o
+rtMinusInf                                        rt_nonfinite.o
+rtMinusInfF                                       rt_nonfinite.o
+rtNaN                                             rt_nonfinite.o
+                                                  BalanceFuzzy.o
+rtNaNF                                            rt_nonfinite.o
+rt_InitInfAndNaN                                  rt_nonfinite.o
+                                                  BalanceFuzzy.o
+rt_OneStep                                        main.o
+                                                  stm32f4xx_it.o
+rt_modd_snf                                       BalanceFuzzy.o
+rt_roundd_snf                                     BalanceFuzzy.o
+systick_count                                     main.o
+                                                  waijung_hwdrvlib.o
+terminate_BasicPWM                                waijung_hwdrvlib.o
